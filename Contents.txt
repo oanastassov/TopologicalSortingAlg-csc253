@@ -1,0 +1,12 @@
+// Author: Olivia Anastassov 
+
+
+// When it was from: Homework 5. 
+
+// This folder contains:
+
+// Topological Sort Algorithm - Restructured and made to work with Mathematica for extra credit. 
+// Mathematica visualization provided by Professor Streinu
+// A data folder containing the input and the output information from this algorithm
+
+// Go to unit tests for running instructions 
